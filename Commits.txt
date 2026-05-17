@@ -1,2 +1,3 @@
 First commit line;
-Second commit line.
+Second commit line;
+Third commit line.
